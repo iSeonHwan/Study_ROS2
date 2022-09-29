@@ -9,3 +9,5 @@
 ***Using rqt_console to view logs***, https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Using-Rqt-Console/Using-Rqt-Console.html, reading by 2022. 9. 17.
 
 ***Launching nodes***, https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Launching-Multiple-Nodes/Launching-Multiple-Nodes.html, reading by 2022. 9. 24.
+
+***Recording and playing back data***, https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Recording-And-Playing-Back-Data/Recording-And-Playing-Back-Data.html, Reading by 2022. 9. 29.
