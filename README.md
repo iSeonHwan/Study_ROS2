@@ -17,3 +17,5 @@
 ***Recording and playing back data***, https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Recording-And-Playing-Back-Data/Recording-And-Playing-Back-Data.html, Reading by 2022. 9. 29.
 
 ***Using colcon to build packages***, https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Colcon-Tutorial.html, Reading by 2022. 10. 3.
+
+***Creating a workspace***, https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Creating-A-Workspace/Creating-A-Workspace.html#creating-a-workspace, Reading by 2022. 10. 8.
