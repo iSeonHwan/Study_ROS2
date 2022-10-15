@@ -19,3 +19,5 @@
 ***Using colcon to build packages***, https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Colcon-Tutorial.html, Reading by 2022. 10. 3.
 
 ***Creating a workspace***, https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Creating-A-Workspace/Creating-A-Workspace.html#creating-a-workspace, Reading by 2022. 10. 8.
+
+***Creating a package***, https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Creating-Your-First-ROS2-Package.html, Reading by 2022. 10. 15.
