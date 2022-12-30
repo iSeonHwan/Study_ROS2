@@ -23,3 +23,5 @@
 ***Creating a package***, https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Creating-Your-First-ROS2-Package.html, Reading by 2022. 10. 15.
 
 ***Writing a simple publisher and subscriber (C++)***, https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Cpp-Publisher-And-Subscriber.html, reading by 2022. 10. 28~12. 3.
+
+reading: https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html
