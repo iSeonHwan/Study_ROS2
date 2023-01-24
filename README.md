@@ -27,7 +27,9 @@
 
 ***Writing a simple publisher and subscriber (Python)***, https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html, readed by 2023. 1. 5.
 
+***Writing a simple service and client (C++)***, https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Cpp-Service-And-Client.html, readed by 2023. 1. 24.
+
 
 <hr> </hr>
 
-I am reading: 'Writing a simple service and client (C++)'(https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Cpp-Service-And-Client.html)
+I am reading: ***Writing a simple service and client (Python)***(https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Service-And-Client.html)
