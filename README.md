@@ -29,7 +29,8 @@
 
 ***Writing a simple service and client (C++)***, https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Cpp-Service-And-Client.html, readed by 2023. 1. 24.
 
+***Writing a simple service and client (Python)***, https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Service-And-Client.html, readed by 2023. 2. 2.
 
 <hr> </hr>
 
-I am reading: ***Writing a simple service and client (Python)***(https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Service-And-Client.html)
+I am reading: ***Creating custom msg and srv files***(https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Custom-ROS2-Interfaces.html)
